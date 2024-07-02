@@ -1,0 +1,31 @@
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfo.cs
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\bin\Debug\net8.0\Aplicacion.deps.json
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.Up2Date
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\bin\Debug\net8.0\Aplicacion.deps.json
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.sourcelink.json
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.Up2Date
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
+C:\Users\Urich\Desktop\ClinicaC\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll

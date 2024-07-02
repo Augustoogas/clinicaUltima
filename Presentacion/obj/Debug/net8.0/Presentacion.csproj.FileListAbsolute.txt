@@ -1,0 +1,61 @@
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.csproj.AssemblyReference.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfoInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfo.cs
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Presentacion.exe
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Presentacion.deps.json
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Presentacion.runtimeconfig.json
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Presentacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Presentacion.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Persistencia de Datos.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Persistencia de Datos.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presenta.BC77CD05.Up2Date
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\refint\Presentacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\Presentacion.genruntimeconfig.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\obj\Debug\net8.0\ref\Presentacion.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\ClinicaMacFarlin\Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Presentacion.exe
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Presentacion.deps.json
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Presentacion.runtimeconfig.json
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Presentacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Presentacion.pdb
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Persistencia de Datos.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Persistencia de Datos.pdb
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfo.cs
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.sourcelink.json
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presenta.BC77CD05.Up2Date
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\refint\Presentacion.dll
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.pdb
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\Presentacion.genruntimeconfig.cache
+C:\Users\Urich\Desktop\ClinicaC\Presentacion\obj\Debug\net8.0\ref\Presentacion.dll
