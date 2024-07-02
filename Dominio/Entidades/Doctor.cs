@@ -1,9 +1,12 @@
 ﻿using Dominio.Value_Object;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace Dominio.Entidades
 {
     public class Doctor
     {
+
         private Identificador id;
         private Nombre nombre;
         private Apellido apellido;

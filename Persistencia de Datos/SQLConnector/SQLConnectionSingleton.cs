@@ -1,4 +1,4 @@
-﻿/*using System.Data.SqlClient;
+﻿using System.Data.SqlClient;
 namespace Persistencia_de_Datos.SQLConnector
 {
     public class SQLConnectionSingleton

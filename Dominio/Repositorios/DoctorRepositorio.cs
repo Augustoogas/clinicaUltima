@@ -4,9 +4,9 @@ namespace Dominio.Repositorios
 {
     public interface DoctorRepositorio
     {
-        List<Doctor> listar();
-        void grabar(Doctor doctor);
-        void editar(Doctor doctor, Guid id);gc
-        void eliminar(Guid id);
+        List<Doctor> Listar();
+        void Grabar(Doctor doctor);
+        void Editar(Doctor doctor, Guid id);
+        void Eliminar(Guid id);
     }
 }

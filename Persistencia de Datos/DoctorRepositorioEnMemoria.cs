@@ -6,17 +6,17 @@ namespace Persistencia_de_Datos
         {
             private List<Doctor> doctores = new List<Doctor>();
 
-            public List<Doctor> listar()
+            public List<Doctor> Listar()
             {
                 return this.doctores;
             }
 
-            public void grabar(Doctor doctor)
+            public void Grabar(Doctor doctor)
             {
                 this.doctores.Add(doctor);
             }
 
-            public void editar(Doctor doctor, Guid id)
+            public void Editar(Doctor doctor, Guid id)
             {
             int posicionObjeto = doctores.FindIndex(d => d.Id() == id);
 
@@ -29,7 +29,7 @@ namespace Persistencia_de_Datos
                 }
             }
 
-        public void eliminar(Guid id)
+        public void Eliminar(Guid id)
         {
             int posicionObjeto = doctores.FindIndex(d => d.Id() == id);
             if (posicionObjeto >= 0)

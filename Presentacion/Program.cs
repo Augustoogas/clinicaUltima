@@ -4,6 +4,8 @@ using Dominio.Value_Object;
 using Persistencia_de_Datos;
 using Dominio.Repositorios;
 using System;
+using _04_Persistencia_de_datos;
+using _04_Persistencia_de_datos.MongoDBConnector;
 
 namespace Presentacion
 {
@@ -12,7 +14,11 @@ namespace Presentacion
         static void Main(string[] args)
         {
             // Crear instancia del repositorio en memoria
-            var doctorRepositorio = new DoctorRepositorioEnMemoria();
+            // var doctorRepositorio = new DoctorRepositorioEnMemoria();
+            var doctorRepositorio = new DoctorRepositorioSQL();
+           // var doctorRepositorio = new DoctorRepositorioMongoDB();
+
+
 
             // Crear instancia del servicio de doctores
             var doctorServicio = new DoctorServicio(doctorRepositorio);

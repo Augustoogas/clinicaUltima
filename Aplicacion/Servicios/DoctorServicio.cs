@@ -16,7 +16,7 @@ namespace Aplicacion.Servicios
 
         public List<DoctorDTO> ListarDoctores()
         {
-            var doctores = _doctorRepositorio.listar();
+            var doctores = _doctorRepositorio.Listar();
             return doctores.Select(DoctorDTO.FromDoctorEntity).ToList();
         }
 
@@ -24,19 +24,19 @@ namespace Aplicacion.Servicios
         {
             var doctor = new Doctor(
                 doctorDTO.Id, doctorDTO.Nombre, doctorDTO.Apellido, doctorDTO.FechaIngreso, new Estado(doctorDTO.Estado));
-            _doctorRepositorio.grabar(doctor);
+            _doctorRepositorio.Grabar(doctor);
         }
 
         public void ActualizarDoctor(Guid id, DoctorDTO doctorDTO)
         {
-            var doctor = _doctorRepositorio.listar().FirstOrDefault(d => d.Id() == id);
+            var doctor = _doctorRepositorio.Listar().FirstOrDefault(d => d.Id() == id);
             if (doctor != null)
             {
                 doctor.ActualizarNombre(doctorDTO.Nombre);
                 doctor.ActualizarApellido(doctorDTO.Apellido);
                 doctor.ActualizarFechaIngreso(doctorDTO.FechaIngreso);
                 doctor.ActualizarEstado(new Estado(doctorDTO.Estado));
-                _doctorRepositorio.editar(doctor, id);
+                _doctorRepositorio.Editar(doctor, id);
             }
             else
             {
@@ -46,7 +46,7 @@ namespace Aplicacion.Servicios
 
         public void EliminarDoctor(Guid id)
         {
-            _doctorRepositorio.eliminar(id);
+            _doctorRepositorio.Eliminar(id);
         }
     }
 }

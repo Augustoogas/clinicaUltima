@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lY24ya99KHAKEuXclvWYR7mU2BWowUzk913PZzYjCJBZD2FHCS2RoMz4HpPBmIAOrCSMfpzO7bU82z7I2mxuKA==",
+  "dgSpecHash": "GCBqKy+SWVCzKHJ1oiCvyb+NRbvBkt3s20XAzbuz12gBz6gCRT2ZAMcR4TrrI0PDfSqQmGPm9Me3fRzC4W37Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Urich\\Desktop\\ClinicaC\\Aplicacion\\Aplicacion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\repoMacFarlin\\clinic\\Aplicacion\\Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mongodb.bson\\2.27.0\\mongodb.bson.2.27.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

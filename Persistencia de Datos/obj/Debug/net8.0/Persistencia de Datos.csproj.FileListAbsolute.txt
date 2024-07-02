@@ -22,3 +22,19 @@ C:\Users\Urich\Desktop\ClinicaC\Persistencia de Datos\obj\Debug\net8.0\Persisten
 C:\Users\Urich\Desktop\ClinicaC\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.dll
 C:\Users\Urich\Desktop\ClinicaC\Persistencia de Datos\obj\Debug\net8.0\refint\Persistencia de Datos.dll
 C:\Users\Urich\Desktop\ClinicaC\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.pdb
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\bin\Debug\net8.0\Persistencia de Datos.deps.json
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\bin\Debug\net8.0\Persistencia de Datos.dll
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\bin\Debug\net8.0\Persistencia de Datos.pdb
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\bin\Debug\net8.0\Dominio.dll
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.sourcelink.json
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persiste.6C10CA21.Up2Date
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.dll
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\refint\Persistencia de Datos.dll
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\Persistencia de Datos.pdb
+C:\Users\Usuario\Desktop\repoMacFarlin\clinic\Persistencia de Datos\obj\Debug\net8.0\ref\Persistencia de Datos.dll
